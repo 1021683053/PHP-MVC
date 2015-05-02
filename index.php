@@ -34,6 +34,8 @@
 			exit("ERROR CLASS IS`NT MODEL OR CONTROLLER!");
 		}
 	}
+	
+	//hhhhhhhhhhhhhhhhhhhhhhhhhhhh
 
 	//判断是否有此方法
 	if( !method_exists($c ."_controller", $m) ){
